@@ -3,7 +3,7 @@
 title: "The Goose Is Cooked"
 email: "davit@xeli.me"
 description: "Suga Healbostany's blog"
-author: "Suga Healbostany"
+author: "Sugar Healbostany"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"

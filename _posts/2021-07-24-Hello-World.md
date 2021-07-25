@@ -2,10 +2,11 @@
 layout: post
 title: 'Hello, World!'
 date: 2021-07-24T00:00:00.000Z
-category: null
+category:
+  - uncategorized
 image: null
 author: Sugar Healbostany
-tags: null
+tags: General
 published: true
 ---
 Hello, World!
